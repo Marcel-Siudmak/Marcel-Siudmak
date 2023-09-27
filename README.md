@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning time and memory optimal algorithms<br>🎯 Goals: learn about full stack development algorithmics, and data science <br>🎲 Fun fact: I use debian for my main OS</p>
+<p align="left">📚 I'm currently learning time and memory optimal algorithms<br>🎯 Goals: learn about full stack development, algorithmics, and data science <br>🎲 Fun fact: I use debian for my main OS</p>
 
 ###
 
