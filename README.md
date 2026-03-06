@@ -1,19 +1,5 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
-<p align="left">My name is Marcel and I'm a student, from Poland</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 I'm currently learning time and memory optimal algorithms<br>🎯 Goals: learn about full stack development, algorithmics, and data science <br>🎲 Fun fact: I use debian for my main OS</p>
-
-###
-
 <h2 align="left">Technologies I use</h2>
 
 ###
